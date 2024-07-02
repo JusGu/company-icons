@@ -1,2 +1,2 @@
 # company-icons
-This is an experimental repo to see if company icons can be scraped
+This repo hosts company icons scraped from the web
