@@ -1,0 +1,12 @@
+<!-- by TradingView --><svg width="56" height="56" viewBox="0 0 56 56" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="56" height="56" fill="#25364D"/>
+<rect x="21" y="17.0001" width="4" height="22" fill="white"/>
+<rect x="33" y="17.0001" width="4" height="22" fill="white"/>
+<rect x="39" y="17.0001" width="4" height="4" fill="#F57423"/>
+<rect x="39" y="21" width="4" height="4" fill="#F6883A"/>
+<rect x="39" y="25" width="4" height="4" fill="#F9994C"/>
+<rect x="39" y="29" width="4" height="2" fill="#F6883A"/>
+<rect x="39" y="31" width="4" height="8" fill="#F57423"/>
+<rect x="22" y="29" width="4" height="14" transform="rotate(-90 22 29)" fill="white"/>
+<path d="M19 34.0889V17H15V32.7402C15 34.006 14.2052 35 13.0213 35H11.701L11 39H14.4065C16.9434 39 19 36.8012 19 34.0889Z" fill="white"/>
+</svg>
